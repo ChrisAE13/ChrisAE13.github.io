@@ -1,3 +1,35 @@
 {
-  "test" : "test"
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:chrisae13.github.io",
+  "verificationMethod": [
+    {
+      "id": "did:web:chrisae13.github.io#lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:chrisae13.github.io",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "kid": "lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4",
+        "x": "6m-hkQq0QvPz13U7pwuryOTLM11Gyh617h7Q7Kw8D-M"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:chrisae13.github.io#lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4"
+  ],
+  "authentication": [
+    "did:web:chrisae13.github.io#lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4"
+  ],
+  "capabilityInvocation": [
+    "did:web:chrisae13.github.io#lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4"
+  ],
+  "capabilityDelegation": [
+    "did:web:chrisae13.github.io#lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4"
+  ],
+  "keyAgreement": [
+    "did:web:chrisae13.github.io#lD4wckfr33p7AnhdVAapnwbycarXnwNReDOJKzR0kc4"
+  ]
 }
