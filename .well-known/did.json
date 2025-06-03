@@ -1,35 +1,35 @@
 {
-  "@context": [
-    "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/suites/jws-2020/v1"
-  ],
-  "id": "did:web:chrisae13.github.io",
-  "verificationMethod": [
-    {
-      "id": "did:web:chrisae13.github.io#CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q",
-      "type": "JsonWebKey2020",
-      "controller": "did:web:chrisae13.github.io",
-      "publicKeyJwk": {
-        "kty": "OKP",
-        "crv": "Ed25519",
-        "kid": "CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q",
-        "x": "Op03ssu4r6xjyNCJIeIA1wI_yrO1BYHK21ExBuHMu0o"
-      }
-    }
-  ],
-  "assertionMethod": [
-    "did:web:chrisae13.github.io#CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q"
-  ],
-  "authentication": [
-    "did:web:chrisae13.github.io#CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q"
-  ],
-  "capabilityInvocation": [
-    "did:web:chrisae13.github.io#CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q"
-  ],
-  "capabilityDelegation": [
-    "did:web:chrisae13.github.io#CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q"
-  ],
-  "keyAgreement": [
-    "did:web:chrisae13.github.io#CxoCxOFmlgLZEONY6c4RZeNadOhe50qi_dzCIimQ1-Q"
-  ]
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:chrisae13.github.io",
+    "verificationMethod": [
+        {
+            "id": "did:web:chrisae13.github.io#odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:chrisae13.github.io",
+            "publicKeyJwk": {
+                "kty": "OKP",
+                "crv": "Ed25519",
+                "kid": "odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA",
+                "x": "BGqLLGfKrqWruBREb_ln0UtlRkRw4w9jy__fgs17XTQ"
+            }
+        }
+    ],
+    "assertionMethod": [
+        "did:web:chrisae13.github.io#odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA"
+    ],
+    "authentication": [
+        "did:web:chrisae13.github.io#odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA"
+    ],
+    "capabilityInvocation": [
+        "did:web:chrisae13.github.io#odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA"
+    ],
+    "capabilityDelegation": [
+        "did:web:chrisae13.github.io#odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA"
+    ],
+    "keyAgreement": [
+        "did:web:chrisae13.github.io#odds1lZ593XKI4z_B6OBUioqElcUUcxa4NYHrHpt4GA"
+    ]
 }
