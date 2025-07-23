@@ -3,33 +3,33 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "did:web:chrisae13.github.io",
+    "id": "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE",
     "verificationMethod": [
         {
-            "id": "did:web:chrisae13.github.io#8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E",
+            "id": "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE#zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE",
             "type": "JsonWebKey2020",
-            "controller": "did:web:chrisae13.github.io",
+            "controller": "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE",
             "publicKeyJwk": {
-                "kty": "OKP",
-                "crv": "Ed25519",
-                "kid": "8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E",
-                "x": "ZOO3KEfCPLWzgyrNtmISsBkKIkvzfAqpqVr0wunKR4c"
+                "kty": "EC",
+                "crv": "P-256",
+                "x": "rb-lC0EUSzHNycrpAvsblVnxQDMEcPkmQ8Sl0yAnXiM",
+                "y": "STLBWBauUxvkcVxGvN1mOwbD6ZXpDhDtvy-D5X8ARck"
             }
         }
     ],
     "assertionMethod": [
-        "did:web:chrisae13.github.io#8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E"
+        "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE#zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE"
     ],
     "authentication": [
-        "did:web:chrisae13.github.io#8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E"
+        "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE#zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE"
     ],
     "capabilityInvocation": [
-        "did:web:chrisae13.github.io#8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E"
+        "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE#zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE"
     ],
     "capabilityDelegation": [
-        "did:web:chrisae13.github.io#8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E"
+        "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE#zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE"
     ],
     "keyAgreement": [
-        "did:web:chrisae13.github.io#8Gtm18J-mO9NG-J8-ZpQFiYWhtzsYwWB8MvG_6XJS_E"
+        "did:key:zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE#zDnaeuMXSUeHpPCzWXDgkq5UJzdA28x5skFFEf6Y8cnQE8LeE"
     ]
 }
