@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:chrisae13.github.io",
+    "verificationMethod": [
+        {
+            "id": "did:web:chrisae13.github.io#RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:chrisae13.github.io",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "crv": "P-256",
+                "kid": "RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc",
+                "x": "Q2HCOLrLP4__FReqUF38MmNN6e7kCeosVNoc1vZpwmA",
+                "y": "lXf4Ky7ArF1GRZYO2-9ZF4Ppmp2fZzrzBiGnrdKa4mA"
+            }
+        }
+    ],
+    "assertionMethod": [
+        "did:web:chrisae13.github.io#RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc"
+    ],
+    "authentication": [
+        "did:web:chrisae13.github.io#RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc"
+    ],
+    "capabilityInvocation": [
+        "did:web:chrisae13.github.io#RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc"
+    ],
+    "capabilityDelegation": [
+        "did:web:chrisae13.github.io#RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc"
+    ],
+    "keyAgreement": [
+        "did:web:chrisae13.github.io#RkIY8vcZTeWK6_ZF24jLDRC2YEvSXtVARxsO8MNljWc"
+    ]
+}
