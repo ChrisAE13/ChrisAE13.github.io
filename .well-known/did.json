@@ -3,34 +3,34 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "did:web:chrisae13.github.io",
+    "id": "did:web:consumer.gr",
     "verificationMethod": [
         {
-            "id": "did:web:chrisae13.github.io#l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8",
+            "id": "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo",
             "type": "JsonWebKey2020",
-            "controller": "did:web:chrisae13.github.io",
+            "controller": "did:web:consumer.gr",
             "publicKeyJwk": {
                 "kty": "EC",
                 "crv": "P-256",
-                "kid": "l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8",
-                "x": "mQuPrUztNvQWo0EG8wz6OYs29NPeSbPylMzbNW3SoEE",
-                "y": "tLJI6KYzicbN-IHy4HhTG45CkLtWD6U7Y60Nj78MD_c"
+                "kid": "p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo",
+                "x": "aaFF9lsmW-CYG3uulyul3WjEUHMMsrMKjCjEsokPR2o",
+                "y": "fEjY7iuigPQfOmv-cvhVdzX4XG7K_11254j-LmDE-z4"
             }
         }
     ],
     "assertionMethod": [
-        "did:web:chrisae13.github.io#l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8"
+        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "authentication": [
-        "did:web:chrisae13.github.io#l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8"
+        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "capabilityInvocation": [
-        "did:web:chrisae13.github.io#l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8"
+        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "capabilityDelegation": [
-        "did:web:chrisae13.github.io#l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8"
+        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "keyAgreement": [
-        "did:web:chrisae13.github.io#l7CUU-j0OmWa5SlRdIIDEd77F5o7_0kz_CDfJG62Iy8"
+        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ]
 }
