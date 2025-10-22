@@ -3,12 +3,12 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "did:web:consumer.gr",
+    "id": "did:web:chrisae13.github.io",
     "verificationMethod": [
         {
-            "id": "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo",
+            "id": "did:web:chrisae13.github.io#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo",
             "type": "JsonWebKey2020",
-            "controller": "did:web:consumer.gr",
+            "controller": "did:web:chrisae13.github.io",
             "publicKeyJwk": {
                 "kty": "EC",
                 "crv": "P-256",
@@ -19,18 +19,18 @@
         }
     ],
     "assertionMethod": [
-        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
+        "did:web:chrisae13.github.io#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "authentication": [
-        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
+        "did:web:chrisae13.github.io#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "capabilityInvocation": [
-        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
+        "did:web:chrisae13.github.io#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "capabilityDelegation": [
-        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
+        "did:web:chrisae13.github.io#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ],
     "keyAgreement": [
-        "did:web:consumer.gr#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
+        "did:web:chrisae13.github.io#p3zjBP5gndy0Rb95totq7XeCMLr5UO-qwKhe3c2zjqo"
     ]
 }
