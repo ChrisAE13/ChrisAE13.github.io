@@ -6,31 +6,31 @@
     "id": "did:web:chrisae13.github.io",
     "verificationMethod": [
         {
-            "id": "did:web:chrisae13.github.io#ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ",
+            "id": "did:web:chrisae13.github.io#A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4",
             "type": "JsonWebKey2020",
             "controller": "did:web:chrisae13.github.io",
             "publicKeyJwk": {
                 "kty": "EC",
                 "crv": "P-256",
-                "kid": "ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ",
-                "x": "QXQ--s_-i09tMp8id5ySjgVbEsKVqtJ4enUa98kRnDs",
-                "y": "yY0-tqlC-wbZY-xMfxteYTKTf8PmDWLgWisb5Mzwayo"
+                "kid": "A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4",
+                "x": "WfQDTWtkgrQ7LVEsx9lD_9jxnRlVK878ynmstfJvf1c",
+                "y": "Wq013sbptB9CTE9rc4bCLs33VEPhwm1bWuK6VFKL8Qo"
             }
         }
     ],
     "assertionMethod": [
-        "did:web:chrisae13.github.io#ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ"
+        "did:web:chrisae13.github.io#A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4"
     ],
     "authentication": [
-        "did:web:chrisae13.github.io#ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ"
+        "did:web:chrisae13.github.io#A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4"
     ],
     "capabilityInvocation": [
-        "did:web:chrisae13.github.io#ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ"
+        "did:web:chrisae13.github.io#A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4"
     ],
     "capabilityDelegation": [
-        "did:web:chrisae13.github.io#ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ"
+        "did:web:chrisae13.github.io#A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4"
     ],
     "keyAgreement": [
-        "did:web:chrisae13.github.io#ajEGdVJ94ey1yIbsya8Yc9IHLaeOrzk_V_cyDsG8KtQ"
+        "did:web:chrisae13.github.io#A6ary5Tlq53mL9H3nbUvuKJLQTmVLYRltvAhXZIYVW4"
     ]
 }
